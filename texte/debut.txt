@@ -1,0 +1,19 @@
+Salut à toi jeune terrien, si tu es là aujourd’hui, c’est pour une raison très simple, tu souhaites conquérir la planète Mars. Mais ne crois
+pas arriver à tes fins si facilement, pour espérer un jour coloniser cette planète hostile, tu vas devoir commencer par l’explorer. 
+Et pour cela quoi de mieux qu’envoyer sur la planète rouge, un rover à la pointe de la technologie, capable d’étudier et de nous renvoyer de 
+magnifiques photos du sol martien. Aujourd’hui tu dois aider la Nasa à faire atterrir en douceur le rover Persévérance, qui 
+a quitté la Terre en juillet 2020 à bord d’une fusée Atlas V.
+
+Afin de réussir la mission qui t’est confiée, tu vas devoir ajuster, pour chacune des 5 étapes de l’atterrissage, la vitesse initiale et l’angle 
+de départ du rover afin qu’il atteigne la plateforme d’arrivée en état de marche et avec encore du carburant. 
+Mais attention, ton chemin vers la conquête du sol martien sera semé d’embuches. Tu devras t’adapter aux conditions spatiales changeantes : la 
+gravité martienne sera de plus en plus forte à mesure que tu t’approches de Mars et un vent cosmique pourra entraver ta progression. 
+
+Enfin, tu rencontreras divers objets célestes sur ta route vers la planète rouge : 
+-	Les météorites, tu dois absolument les éviter sous peine de recommencer le niveau et par conséquent de perdre du temps ;
+-	Les trous noirs, si tu rentres dans cet amas de matière hyperdense, le rover sera expédié à une distance aléatoire du sol martien. Tu 
+	l’as compris, cet objet céleste peut te permettre de sauter des étapes de la mission mais peut aussi te faire reculer et donc perdre du 
+	temps et du carburant, c’est un risque à prendre… ou à laisser ;
+-	Le carburant de secours, cet objet flotte dans l’espace et peut te permettre de sauver la mission si ton rover est proche de la 
+        panne sèche, et si tu arrives à l’attraper !
+Bonne route et que la force soit avec toi !

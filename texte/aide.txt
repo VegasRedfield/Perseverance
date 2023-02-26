@@ -1,0 +1,5 @@
+Objectif : atterir sur la plateforme en bas à droite de la fenêtre
+Objets :
+ - météorites : -15% de carburant + niveau perdu
+ - carburants : +15% de carburant à multiplier par le chiffre présent sur le carburant
+ - trous noirs : -15% de carburant + envoi vers un niveau aléatoire
